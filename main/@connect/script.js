@@ -15225,7 +15225,7 @@ const N3 = [{
         isPublic: !0,
         directory: "pp4/fibbage3"
     }, {
-        name: "Survive the Internet",
+        name: "Survive the Photosharing Sites",
         tag: "survivetheinternet",
         wrapper: "marionette",
         isPublic: !0,
@@ -15254,7 +15254,7 @@ const N3 = [{
         categoryId: "OverdrawnGame",
         shopItems: ["shirts"]
     }, {
-        name: "You Don't Know Jack: Full Stream",
+        name: "You Don't Know JCI: Full Stream",
         tag: "ydkj2018",
         wrapper: "marionette",
         isPublic: !0,
@@ -15290,7 +15290,7 @@ const N3 = [{
         categoryId: "PatentlyStupidGame",
         shopItems: ["mugs"]
     }, {
-        name: "Trivia Murder Party 2",
+        name: "Myst Murders You 2",
         tag: "triviadeath2",
         wrapper: "marionette",
         isPublic: !0,
