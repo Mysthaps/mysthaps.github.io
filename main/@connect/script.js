@@ -15320,7 +15320,7 @@ const N3 = [{
         directory: "pp6/ridictionary",
         categoryId: "RidictionaryGame"
     }, {
-        name: "Push the Button",
+        name: "Among Us",
         tag: "pushthebutton",
         wrapper: "marionette",
         isPublic: !0,
